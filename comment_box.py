@@ -1,6 +1,5 @@
 from selene.api import s
 
-
 class comment_box():
 
     def comment_via_dict(self, contents_dict):
