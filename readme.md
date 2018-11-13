@@ -1,7 +1,4 @@
-basic requirements: python 3.6.5+, pip
+Basic requirements: python version 3.6.5+, pip version 9.0.3
 
-To install dependencies:
-	'pip install -r requirements.txt'
-
-To run:
-	Simply run 'python runner.py'
+* To install: clone and 'pip install -r requirements.txt'
+* To run: Simply run 'python3 runner.py'
