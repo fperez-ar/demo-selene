@@ -13,7 +13,7 @@ pefile==2018.8.8
 penv==0.7
 PyInstaller==3.3.1
 pypiwin32==223
-pywin32==223
+pywin32==301
 requests==2.20.0
 selene==1.0.0a13
 selenium==2.53.1
